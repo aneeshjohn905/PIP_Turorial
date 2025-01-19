@@ -39,4 +39,5 @@ while(ch=='y'):
     elif op==2:
         decrypt()
     elif op==3:
+        print("Exiting Program")
         ch='n'
